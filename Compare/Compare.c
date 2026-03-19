@@ -1,7 +1,5 @@
 //Compare mode using Timer3 channel 1
 
-
-/* USER CODE END Header */
 /* Includes ------------------------------------------------------------------*/
 #include "main.h"
 
